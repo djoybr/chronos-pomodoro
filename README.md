@@ -5,7 +5,7 @@ Projeto em desenvolvimento como parte do curso completo de React.js 19 e Next.js
 
 ## 🚧 Status do Projeto
 
-🔧 Em desenvolvimento (aulas 1 a 24 concluídas)
+🔧 Em desenvolvimento (aulas 1 a 34 concluídas)
 
 ## 🎯 Objetivo
 
